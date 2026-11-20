@@ -13,7 +13,7 @@
 
 I'm an AI architect who still builds what I design, with 15+ years of building software products behind me.
 
-Since 2020 I've been technical lead on **InsideArbitrage**, a fintech research platform with 50K+ registered users. There I take Generative AI features from idea to production:
+Since 2020 I've been technical lead on InsideArbitrage, a fintech research platform with 50K+ registered users. There I take Generative AI features from idea to production:
 
 - AI-written portfolio reports that are **fact-checked against SEC and market data** before they reach subscribers
 - One LLM layer across four providers, with database-managed prompts, caching and per-request cost tracking
